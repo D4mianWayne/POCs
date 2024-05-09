@@ -9,12 +9,10 @@ This repository serves as a collection of PoCs developed by [Author Name] (Robin
 ## Contents
 
 - **CVE PoCs**: Demonstrations for CVEs with detailed explanations and exploitation techniques.
-- **Vulnerability PoCs**: PoCs for security vulnerabilities not assigned with CVEs, covering a wide range of topics such as SQL injection, XSS, RCE, etc.
+- **Vulnerability PoCs**: PoCs for security vulnerabilities not assigned with CVEs, much rather techniques or helpful scripts.
 - **Exploit Scripts**: Python scripts, shell scripts, and other tools developed to exploit specific vulnerabilities.
 
-## Contribution
-
-Contributions to this repository are welcome! If you have developed a PoC for a CVE or a security vulnerability, feel free to submit a pull request. Please ensure that your contribution follows the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
+hat your contribution follows the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Disclaimer
 
