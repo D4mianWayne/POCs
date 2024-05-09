@@ -12,7 +12,9 @@ This repository serves as a collection of PoCs developed by [Author Name] (Robin
 - **Vulnerability PoCs**: PoCs for security vulnerabilities not assigned with CVEs, much rather techniques or helpful scripts.
 - **Exploit Scripts**: Python scripts, shell scripts, and other tools developed to exploit specific vulnerabilities.
 
-hat your contribution follows the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
+### POCs
+
+* [CrushFTP SSTI Vulnerability - CVE 2024-4040](./CVE%202024-4040/README.md)
 
 ## Disclaimer
 
