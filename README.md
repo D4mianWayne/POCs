@@ -14,6 +14,7 @@ This repository serves as a collection of PoCs developed by [Author Name] (Robin
 ## POCs
 
 * [CrushFTP SSTI Vulnerability - CVE 2024-4040](./CVE%202024-4040/)
+* [Ivanti Avalanche XXE - CVE 2024-38653](./CVE%202024-38653/)
 
 ## Disclaimer
 
