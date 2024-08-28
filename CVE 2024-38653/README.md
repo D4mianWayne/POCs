@@ -63,7 +63,7 @@ In order to exploit this vulnerability using the provided POC, you must define t
 
 Note: I will have to try the FTP approach for data exfiltration again but previously when tried, it led to same results.
 
-![POC Showcase](./poc-showcase.png)
+![Proof of Concept Showcas](./poc-showcase.png)
 
 # Patch
 
