@@ -4,7 +4,7 @@ Welcome to the PoC (Proof of Concept) repository for demonstrating CVEs (Common 
 
 ## About
 
-This repository serves as a collection of PoCs developed by [Author Name] (Robin) to showcase security vulnerabilities and their exploitation techniques. Each PoC is categorized based on the CVE identifier or the type of vulnerability it demonstrates.
+This repository serves as a collection of PoCs developed by D4mianWayne (Robin) to showcase security vulnerabilities and their exploitation techniques. Each PoC is categorized based on the CVE identifier or the type of vulnerability it demonstrates.
 
 ## Contents
 
@@ -13,9 +13,9 @@ This repository serves as a collection of PoCs developed by [Author Name] (Robin
 
 ## POCs
 
-* [CrushFTP SSTI Vulnerability - CVE 2024-4040](./CVE%202024-4040/)
-* [Ivanti Avalanche XXE - CVE 2024-38653](./CVE%202024-38653/)
-* [Ivanti Endpoint Manager XXE - CVE 2024-37397](./CVE%202024-37397/)
+- CrushFTP SSTI Vulnerability - [CVE 2024-4040](./CVE%202024-4040/)
+- Ivanti Avalanche XXE Vulnerability - [CVE 2024-38653](./CVE%202024-38653/)
+- Ivanti Endpoint Manager XXE Vulnerability - [CVE 2024-37397](./CVE%202024-37397/)
 
 ## Disclaimer
 

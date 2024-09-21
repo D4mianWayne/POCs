@@ -8,7 +8,7 @@ Credit: 06fe5fd2bc53027c4a3b7e395af0b850e7b8a044 (Trend Micro)
 
 ### Description:
 
-A vulnerability in Ivanti Endpoint Manager allows remote attackers to disclose sensitive information without requiring authentication. This flaw arises from improper handling of XML External Entity (XXE) references in the ImportXml method. Specifically, the vulnerability is triggered by the actionXml parameter, which is processed during the execution of the SetActionStatus action via a SOAP request. 
+A vulnerability in Ivanti Endpoint Manager allows remote attackers to disclose sensitive information without requiring authentication. This flaw arises from improper handling of XML External Entity (XXE) references in the `ImportXml` method. Specifically, the vulnerability is triggered by the `actionXml` parameter, which is processed during the execution of the `SetActionStatus` action via a SOAP request.
 
 ![POC Showcase of CVE 2024-37397](./POC-CVE-37397.jpg)
 
