@@ -16,6 +16,8 @@ This repository serves as a collection of PoCs developed by D4mianWayne (Robin) 
 - CrushFTP SSTI Vulnerability - [CVE 2024-4040](./CVE%202024-4040/)
 - Ivanti Avalanche XXE Vulnerability - [CVE 2024-38653](./CVE%202024-38653/)
 - Ivanti Endpoint Manager XXE Vulnerability - [CVE 2024-37397](./CVE%202024-37397/)
+    * This exploit has hardcoded `historyEntryID`: [CVE-2024-37397-Hardcoded-ID-Showcase](./CVE%202024-37397/CVE-2024-37397-Hardcoded-ID-Showcase.py)
+    * Final exploit leveraging `GetTasksXml` for `historyEntryID` Retrieval: [CVE-2024-37397-Final-Full-Chain](./CVE%202024-37397/CVE-2024-37397-Final-Full-Chain.py)
 
 ## Disclaimer
 

