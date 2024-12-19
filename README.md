@@ -18,6 +18,7 @@ This repository serves as a collection of PoCs developed by D4mianWayne (Robin) 
 - Ivanti Endpoint Manager XXE Vulnerability - [CVE 2024-37397](./CVE%202024-37397/)
     * This exploit has hardcoded `historyEntryID`: [CVE-2024-37397-Hardcoded-ID-Showcase](./CVE%202024-37397/CVE-2024-37397-Hardcoded-ID-Showcase.py)
     * Final exploit leveraging `GetTasksXml` for `historyEntryID` Retrieval: [CVE-2024-37397-Final-Full-Chain](./CVE%202024-37397/CVE-2024-37397-Final-Full-Chain.py)
+- HPE Insights Remote Support XXE via `validateAgainstXSD` Vulnerability - [CVE 2024-53675](./CVE%202024-53675/CVE-2024-53675.py)
 
 ## Disclaimer
 
