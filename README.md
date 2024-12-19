@@ -13,12 +13,13 @@ This repository serves as a collection of PoCs developed by D4mianWayne (Robin) 
 
 ## POCs
 
-- CrushFTP SSTI Vulnerability - [CVE 2024-4040](./CVE%202024-4040/)
-- Ivanti Avalanche XXE Vulnerability - [CVE 2024-38653](./CVE%202024-38653/)
-- Ivanti Endpoint Manager XXE Vulnerability - [CVE 2024-37397](./CVE%202024-37397/)
-    * This exploit has hardcoded `historyEntryID`: [CVE-2024-37397-Hardcoded-ID-Showcase](./CVE%202024-37397/CVE-2024-37397-Hardcoded-ID-Showcase.py)
-    * Final exploit leveraging `GetTasksXml` for `historyEntryID` Retrieval: [CVE-2024-37397-Final-Full-Chain](./CVE%202024-37397/CVE-2024-37397-Final-Full-Chain.py)
-- HPE Insights Remote Support XXE via `validateAgainstXSD` Vulnerability - [CVE 2024-53675](./CVE%202024-53675/CVE-2024-53675.py)
+| Vulnerability | CVE ID | Exploit Links |
+| ------------- | ------ | ------------- |
+| CrushFTP SSTI Vulnerability | [CVE 2024-4040](./CVE%202024-4040/) | - |
+| Ivanti Avalanche XXE Vulnerability | [CVE 2024-38653](./CVE%202024-38653/) | - |
+| Ivanti Endpoint Manager XXE Vulnerability | [CVE 2024-37397](./CVE%202024-37397/) | [Hardcoded `historyEntryID`](./CVE%202024-37397/CVE-2024-37397-Hardcoded-ID-Showcase.py) <br> [Final exploit leveraging `GetTasksXml` for `historyEntryID` Retrieval](./CVE%202024-37397/CVE-2024-37397-Final-Full-Chain.py) |
+| HPE Insights Remote Support XXE Vulnerability | [CVE 2024-53675](./CVE%202024-53675/CVE-2024-53675.py) | - |
+
 
 ## Disclaimer
 
